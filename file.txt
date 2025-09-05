@@ -2,3 +2,4 @@ File.txt
 Linked with Azure Board. 
 The item completed. 
 The item linked with Azure board.
+The status is completed. 
